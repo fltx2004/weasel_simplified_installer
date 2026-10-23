@@ -11,13 +11,13 @@
 #define SIVersion "26.5.5.0"
 #endif
 #ifndef AppPublisher
-#define AppPublisher "晴天博客"
+#define AppPublisher "风凌天下"
 #endif
 #ifndef AppURL
-#define AppURL "https://www.qt06.com/"
+#define AppURL "https://fltxdbk.yydjtc.cn/"
 #endif
 #ifndef VersionInfoCopyright
-#define VersionInfoCopyright "晴天博客"
+#define VersionInfoCopyright "© 风凌天下"
 #endif
 #ifndef VersionInfoDescription
 #define VERSIONINFODESCRIPTION "小狼毫输入法集成雾凇拼音配置的简化安装程序"
